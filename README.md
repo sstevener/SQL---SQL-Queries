@@ -1,5 +1,4 @@
-# SQL-Homework
-SQL queries homework
+# SQL - SQL Queries
 
 ## Instructions
 
